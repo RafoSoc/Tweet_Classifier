@@ -15,3 +15,6 @@
      - The "raw data" folder contains the data that was collected by the "getTweets_toCSV.ipynb" code.
     - The "train_data" folder contains the normalized data that will be used by the code in the notebook "train_test_templates.ipynb".
     - The "test_data" folder contains the test data that will be used by the code in the notebook "utilizandoModelos.ipynb".
+
+  3. The folder that contains the Project paper.
+     - It contains the paper files in .pdf and .docx. 

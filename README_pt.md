@@ -2,7 +2,7 @@
 Projeto para a disciplina Inteligência Artificial Centrada no ser humano para o mestrado em Engenharia e Ciência de Dados na Universidade de Coimbra. Este repositório contém os códigos do modelo de árvore de decisão que classifica entre os tweets Positivos, Negativos e Neutros relacionados aos candidatos presidenciais, Lula e Bolsonaro, das eleições brasileiras de 2022.
 
 ### Este Repositório é organizado da seguinte maneira:
-- Duas pastas principais, uma contendo os códigos e outra os dados.
+- Três pastas principais, uma contendo os códigos e outra os dados.
  1. A pasta "cod" contém os códigos possuem três pastas:
     - getData que é o primeiro passo, ou seja, primeiro código a ser rodado, pois é o código que irá coletar os dados.
     - o segundo passo está na pasta normalização, onde possuí quatro códigos que estão organizados da seguinte maneira: 
@@ -14,3 +14,6 @@ Projeto para a disciplina Inteligência Artificial Centrada no ser humano para o
      - A pasta "raw data" contém os dados que foram coletados pelo código "getTweets_toCSV.ipynb".
      - A pasta "train_data" possuí os dados normalizados e que serão usados pelo código no notebook "modelos_treino_teste.ipynb".
      - A pasta "test_data que possuí os dados para teste, serão utilizados pelo código no notebook "utilizandoModelos.ipynb".
+
+ 3. A pasta que contem o paper do Projeto.
+     - Contém os arquivos do paper em .pdf e .docx.
