@@ -1,5 +1,7 @@
 # Tweet_Classifier
- Project for the discipline Human-Centered Artificial Intelligence for the master's degree in Engineering and Data Science at the University of Coimbra. This repository holds the codes of the decision tree model that classifies between Positive, Negative, Neutral tweets related to the presidential candidates, Lula and Bolsonaro, of the 2022 Brazilian election.
+Project for the subject Human-Centered Artificial Intelligence for the master's degree in Engineering and Data Science at the University of Coimbra, done by students Rafael S. Gouveia and Andrei Fokin Teixeira. 
+
+This repository contains the codes of the decision tree model that classifies between Positive, Negative and Neutral tweets related to the presidential candidates, Lula and Bolsonaro, of the 2022 Brazilian elections.
 
 ### This Repository is organized as follows:
 - Two main folders, one containing the codes and one containing the data.

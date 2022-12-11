@@ -1,5 +1,7 @@
 # Tweet_Classifier
-Projeto para a disciplina Inteligência Artificial Centrada no ser humano para o mestrado em Engenharia e Ciência de Dados na Universidade de Coimbra. Este repositório contém os códigos do modelo de árvore de decisão que classifica entre os tweets Positivos, Negativos e Neutros relacionados aos candidatos presidenciais, Lula e Bolsonaro, das eleições brasileiras de 2022.
+Projeto para a disciplina Inteligência Artificial Centrada no ser humano para o mestrado em Engenharia e Ciência de Dados na Universidade de Coimbra, realizado pelos alunos Rafael S. Gouveia e Andrei Fokin Teixeira. 
+
+Este repositório contém os códigos do modelo de árvore de decisão que classifica entre os tweets Positivos, Negativos e Neutros relacionados aos candidatos presidenciais, Lula e Bolsonaro, das eleições brasileiras de 2022.
 
 ### Este Repositório é organizado da seguinte maneira:
 - Três pastas principais, uma contendo os códigos e outra os dados.
