@@ -19,4 +19,4 @@ This repository contains the codes of the decision tree model that classifies be
     - The "test_data" folder contains the test data that will be used by the code in the notebook "utilizandoModelos.ipynb".
 
   3. The folder that contains the Project paper.
-     - It contains the paper files in .pdf and .docx. 
+     - It contains the paper files in .pdf and .docx.
